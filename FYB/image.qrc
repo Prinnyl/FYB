@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Pixmap">
+        <file>image/01.png</file>
+        <file>image/02.png</file>
+        <file>image/03.png</file>
+        <file>image/04.png</file>
+        <file>image/05.png</file>
+        <file>image/75354898_p9.png</file>
+        <file>image/background.png</file>
+        <file>image/close.png</file>
+        <file>image/last.png</file>
+        <file>image/next.png</file>
+        <file>image/point.png</file>
+        <file>image/return.png</file>
+        <file>image/select.png</file>
+        <file>image/start.png</file>
+    </qresource>
+</RCC>
